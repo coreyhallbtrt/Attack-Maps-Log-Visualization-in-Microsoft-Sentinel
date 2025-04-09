@@ -115,6 +115,17 @@ Visualizing authentication data provides **clear operational and security advant
 ![4 KQL query that shows LAW failure login](https://github.com/user-attachments/assets/79a4e9e5-7884-48ac-bc92-56076a87f3b5)
 
 ---
+**Final Maps** 
+
+![final success](https://github.com/user-attachments/assets/71134140-84cf-4c76-89a1-72c9534f5e07)
+---
+
+![final failures png 2 ](https://github.com/user-attachments/assets/77e0addc-1549-4584-91ca-3d1c79bbac42)
+
+---
+
+
+
 
 ### ✅ **Summary of What I Did:**
 
